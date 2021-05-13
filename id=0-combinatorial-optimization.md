@@ -1,7 +1,7 @@
 _13 May 2021_ 
 
 
-# [`Combinatorial Optimization`](https://en.wikipedia.org/wiki/Combinatorial_optimization): 
+# [`Combinatorial Optimization`](https://en.wikipedia.org/wiki/Combinatorial_optimization)
 
 ## Problems 
 [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/)
