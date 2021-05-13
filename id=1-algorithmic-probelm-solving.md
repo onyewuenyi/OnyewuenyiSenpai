@@ -16,6 +16,9 @@ If you did have a magic operation, tool, function, class, or N how would you sol
 ## Exploit Failure
 
 
+## Incremental Verification of Understanding: Intrepreting and Expressing Intent 
+Verify verbally or visually  that you understand the problem and/or statement; and the intent you are expressing.
+
 ## Tags 
 [`dynamic programming`](https://en.wikipedia.org/wiki/Dynamic_programming),
 [`memoization`](https://en.wikipedia.org/wiki/Memoization),
