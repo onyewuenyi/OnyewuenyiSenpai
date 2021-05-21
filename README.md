@@ -4,7 +4,7 @@ Personal Technical Blog
 
 # What is this?
 
-This is a space where I can express my thoughts and opinions on mostly technical things.
+This is a space where I can express my thoughts and opinions on mostly technical tings.
 
 _All content in this repository is, unless otherwise specified_:
 ```
@@ -20,8 +20,7 @@ _As this is a personal blog, I don't accept any PRs to it currently. If you wish
 - [21 May 2021 - Binary Search Tree Patterns](https://github.com/onyewuenyi/OnyewuenyiSenpai/blob/main/id%3D3-binary-search-tree-patterns.md)
 
 ## Technical Articles
-# Template
-- [How the dontbug debugger works](https://github.com/sidkshatriya/dontbug/wiki/How-the-Dontbug-Debugger-works)
 
+## Research Papers 
 
 Template and inspiration from https://github.com/sidkshatriya/me 
