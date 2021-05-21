@@ -1,6 +1,5 @@
 # OnyewuenyiSenpai
-Personal Technical Blog 
-This is a space where I can express my thoughts and opinions on mostly technical tings.
+This is a dimension where I can express my ideas on mostly technical tings.
 
 _All content in this repository is, unless otherwise specified_:
 ```
