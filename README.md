@@ -1,6 +1,8 @@
 # OnyewuenyiSenpai
-This is a dimension where I can express my ideas on mostly technical tings.
+This is a dimension 🌌🌌🌌 where I can express and archive my ideas 💡 on mostly technical tings .
 
+https://www.linkedin.com/in/charles-onyewuenyi-a8106337/
+Current interest: CPU power optimization, game design, game programming, backend distributed systems, machine learning applications in game dev
 _All content in this repository is, unless otherwise specified_:
 ```
 All Rights Reserved
