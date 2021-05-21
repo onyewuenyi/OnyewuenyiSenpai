@@ -24,4 +24,4 @@ _As this is a personal blog, I don't accept any PRs to it currently. If you wish
 - [How the dontbug debugger works](https://github.com/sidkshatriya/dontbug/wiki/How-the-Dontbug-Debugger-works)
 
 
-# Template and inspiration from https://github.com/sidkshatriya/me 
+Template and inspiration from https://github.com/sidkshatriya/me 
